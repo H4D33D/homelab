@@ -1,4 +1,4 @@
-# homelab
+# homelab v2
 | Part | Order Status |
 |---|---|
 | SysRacks 15U Mesh Server Rack Cabinet 24” Deep, 19” Standard Equipment | Ordered |
