@@ -6,6 +6,6 @@
 | Mini PC's | Notre Dame Surplus - Waiting |
 | PDU (included w/ Case) | Arriving w/ Case |
 | UPS | Undecided |
-| Panel Patch | Cart |
+| Patch Panel | Cart |
 |Keystones, Couplers, & Cables | Cart|
 |NAS - 18" Depth Rackmount | Still Looking For Used  / Saving Up |
