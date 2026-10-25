@@ -7,5 +7,5 @@
 | PDU (included w/ Case) | Received |
 | UPS | Undecided |
 | Patch Panel | Cart |
-|Keystones, Couplers, & Cables | Cart|
-|NAS - 18" Depth Rackmount | Still Looking For Used  / Saving Up |
+| Keystones, Couplers, & Cables | Cart|
+| NAS - 18" Depth Rackmount | Still Looking For Used  / Saving Up |
