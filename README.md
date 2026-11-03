@@ -35,7 +35,7 @@
 
 # Display Terminal
 
-![Image Of iMac](display-terminal/images/iMac-icon.jpg)
+![Image Of iMac](display-terminal/images/iMac-icon.jpg){width=200px}
 
 Decided to repurpose an old 2011 iMac into a Display Terminal for the homelab.
 Will gut the logic board and replace it with a display controller w/ HDMI, etc. 
