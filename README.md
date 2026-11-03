@@ -35,7 +35,7 @@
 
 # Display Terminal
 
-<img src="display-terminal/images/iMac-icon.jpg" width="200" alt="Image Of iMac">
+<img src="display-terminal/images/iMac-icon.jpg" width="500" alt="Image Of iMac">
 
 Decided to repurpose an old 2011 iMac into a Display Terminal for the homelab.
 Will gut the logic board and replace it with a display controller w/ HDMI, etc. 
