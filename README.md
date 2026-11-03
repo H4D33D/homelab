@@ -15,6 +15,8 @@
 
 # Homelab Rack Layout
 
+| Display Terminal w/ Peripherals |
+|:---:|---|
 | Unit | Equipment |
 |:---:|---|
 | U15 | Empty |
