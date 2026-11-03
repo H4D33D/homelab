@@ -35,6 +35,8 @@
 
 # Display Terminal
 
+![Image Of iMac](display-terminal/images/iMac-icon.jpg)
+
 Decided to repurpose an old 2011 iMac into a Display Terminal for the homelab.
 Will gut the logic board and replace it with a display controller w/ HDMI, etc. 
 Ordered iFixit suction cups; will arrive tomorrow. Once the screen is removed (strong magnets) and 
