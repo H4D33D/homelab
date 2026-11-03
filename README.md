@@ -11,3 +11,23 @@
 | NAS - 18" Depth Rackmount | Still Looking For Used  / Saving Up |
 | HDD Storage x4 | Bulk / Price Drop | 
 | Govee LED Strip | Pending | 
+
+# Homelab Rack Layout
+
+| Unit | Equipment |
+|:---:|---|
+| U15 | Empty |
+| U14 | Shelf |
+| U13 | Patch Panel |
+| U12 | Patch Panel |
+| U11 | Network Switch |
+| U10 | PC / Server |
+| U9 | NAS |
+| U8 | NAS |
+| U7 | Reserved |
+| U6 | Reserved |
+| U5 | PC / Server |
+| U4 | Empty |
+| U3 | Shelf |
+| U2 | UPS |
+| U1 | PDU |
