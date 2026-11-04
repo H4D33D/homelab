@@ -40,9 +40,9 @@
 Decided to repurpose an old 2011 iMac into a Display Terminal for the homelab.
 Will gut the logic board and replace it with a display controller w/ HDMI, etc. 
 Ordered iFixit suction cups; will arrive tomorrow. Once the screen is removed (strong magnets) and 
-I can get the LCD model number, I can then order a controller and complete the conversion. 
+I can get the LCD model number, I can then order the specific video controller and complete the conversion. 
 The display will also play an aesthetic role within my setup. Oftentimes playing television,
 film, music videos, nature videos, anime, just anything for aesthetic that's on my NAS.  
 I have also decided to run Ubuntu w/ KDE, for homelab functionality, and for the fact that I can
-make the OS's GUI look like Mac OS X Lion. With the iconic Galaxy Wallpaper, Dock, etc., it just
+make the OS's GUI take the appearance of Mac OS X Lion. With the iconic Galaxy Wallpaper, Dock, etc., it just
 makes it all that much better.
