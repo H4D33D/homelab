@@ -12,6 +12,7 @@
 | NAS - 18" Depth Rackmount | Still Looking For Used  / Saving Up |
 | HDD Storage x4 | Bulk / Price Drop | 
 | Govee LED Strip | Pending | 
+| iMac Terminal | Recycled |
 
 # Homelab Rack Layout
 
@@ -37,7 +38,7 @@
 
 <img src="display-terminal/images/iMac-icon.jpg" width="500" alt="Image Of iMac">
 
-Decided to repurpose an old 2011 iMac into a Display Terminal for the homelab.
+Decided to repurpose a mid 2011 21" iMac into a Display Terminal for the homelab.
 Will gut the logic board and replace it with a display controller w/ HDMI, etc. 
 Ordered iFixit suction cups; will arrive tomorrow. Once the screen is removed (strong magnets) and 
 I can get the LCD model number, I can then order the specific video controller and complete the conversion. 
@@ -46,3 +47,8 @@ film, music videos, nature videos, anime, just anything for aesthetic that's on 
 I have also decided to run Ubuntu w/ KDE, for homelab functionality, and for the fact that I can
 make the OS's GUI take the appearance of Mac OS X Lion. With the iconic Galaxy Wallpaper, Dock, etc., it just
 makes it all that much better.
+
+Got the suctions cups and LCD model number, everything went smoothly. 
+Found a Display Controller on AliExpress with an HDMI & DP, which is a nice surprise,
+and will make this that much more useful.
+I have messaged seller to confirm specs, and will order once I get confirmation. 
