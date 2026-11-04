@@ -54,3 +54,4 @@ Got the suctions cups and LCD model number, everything went smoothly.
 Found a Display Controller on AliExpress with an HDMI & DP, which is a nice surprise,
 and will make this that much more useful.
 I have messaged seller to confirm specs, and will order once I get confirmation. 
+Front glass came off really easy, could've used tape. 
