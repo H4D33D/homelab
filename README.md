@@ -55,3 +55,4 @@ Found a Display Controller on AliExpress with an HDMI & DP, which is a nice surp
 and will make this that much more useful.
 I have messaged seller to confirm specs, and will order once I get confirmation. 
 Front glass came off really easy, could've used tape. 
+update: Will need the display controller and audio board in order to retain original Mac speakers. That's all I can retain as of now. Will look for a disc drive solution later?
