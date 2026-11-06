@@ -56,3 +56,6 @@ and will make this that much more useful.
 I have messaged seller to confirm specs, and will order once I get confirmation. 
 Front glass came off really easy, could've used tape. 
 update: Will need the display controller and audio board in order to retain original Mac speakers. That's all I can retain as of now. Will look for a disc drive solution later?
+
+11/06/26
+Ordered Controller With Audio Crossover. Seller recommended a cheaper version, with my firmware flashed. Saved 20 bucks for the same thing. 
