@@ -4,7 +4,7 @@
 |---|---|
 | [Sysracks 15U Wall Mount Server Rack Cabinet 24” Deep](https://a.co/d/06zSUiVo) | Received / Pending Assembly |
 | [Network Switch](https://a.co/d/0cgy1F8x) | Received |
-| Mini PC's | Notre Dame Surplus - Waiting |
+| Mini PC's | Waiting |
 | PDU (included w/ Case) | Received |
 | UPS | Undecided |
 | Patch Panel | Cart |
